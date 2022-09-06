@@ -1,0 +1,12 @@
+{
+    "name": "jaxwilko/schematic",
+    "authors": [
+        {
+            "name": "Jack Wilkinson",
+            "email": "me@jackwilky.com"
+        }
+    ],
+    "require": {
+        "staudenmeir/eloquent-json-relations": "^1.6"
+    }
+}
